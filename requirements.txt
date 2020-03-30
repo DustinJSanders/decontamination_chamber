@@ -1,0 +1,3 @@
+gpiozero
+Adafruit-Blinka
+board
